@@ -1,0 +1,32 @@
+div {
+    color: yellow;
+    background-color: red;
+}
+body {
+    margin: 0px;
+    background-color: red;
+    
+}
+a {
+    color: yellow;
+}
+header {
+    background-color: black;
+    height: 240px;
+}
+img {
+    border: 2px solid yellow;
+}
+hr {
+    color: yellow;
+}
+footer {
+    background-color:yellow;
+    height: 160px;
+}
+input {
+    background-color: yellow;
+}
+print {
+    color: yellow;
+}
